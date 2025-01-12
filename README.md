@@ -1,2 +1,2 @@
 #### Nothing out of the ordinary here...
-To visit the actual site, go to bvrettos.github.io
+To visit the actual site, click [here](https://bvrettos.github.io)
